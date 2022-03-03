@@ -1,0 +1,1 @@
+module.exports={sites:[{title:"sakura",url:"https://sakura.daydayupran.top/",logo:"https://gitee.com/ran_yong/mark-down-table-upload/raw/master/img/20211123222242.png",describe:"I do not follow,i lives is always all you want"}]};
